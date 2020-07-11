@@ -1,2 +1,3 @@
 # hello-world
-Learning Git version control
+Git version control
+Master branch
